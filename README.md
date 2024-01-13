@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @junction2412
 - 👀 I’m interested in application programming (preferably back-end development)
-- 🌱 I’m currently learning Java and how to make GUIs with JavaFX
 - 💞️ I’m looking to collaborate on projects with friends of mine
 
 <!---
